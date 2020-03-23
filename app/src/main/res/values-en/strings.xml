@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">16BBDD</string>
+    <string name="id">Id</string>
+    <string name="nombre">Name</string>
+    <string name="apellido">Last Name</string>
+    <string name="buscar">Search</string>
+    <string name="insertar">Insert</string>
+    <string name="borrar">Delete</string>
+    <string name="actualizar">Update</string>
+</resources>
